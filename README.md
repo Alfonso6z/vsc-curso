@@ -18,6 +18,11 @@ Este curso te proporcionará los conocimientos necesarios para utilizar Visual S
 - [Marketplace de Extensiones](https://marketplace.visualstudio.com/vscode)
 - [Comunidades de Desarrolladores](https://stackoverflow.com/questions/tagged/visual-studio-code)
 
+## Expresiones de Gratitud 🎁
+* Comenta a otros sobre este el proyecto de Escuela de código 📢
+* Sigueme en [GitHub](https://github.com/Alfonso6z)
+
+
 [a]: https://img.shields.io/github/followers/Alfonso6z?style=social
 [b]: https://img.shields.io/badge/Alfonso6z-VSCode-blue
 [me]: https://img.shields.io/badge/Link-Meet-green
